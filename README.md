@@ -1,7 +1,8 @@
 
 Indrive Dashboard - A Power BI dashboard analyzing Indrive ride data, covering trip trends, revenue, payment methods, and can
 cellations. 
-![image](https://github.com/user-attachments/assets/1bf17a27-c034-4ef5-ae47-fda3ba76d974)
+![image](https://github.com/user-attachments/assets/d514920b-335d-446a-b444-937afe9fc41b)
+
 
 
 # Indrive Dashboard - Power BI & SQL
